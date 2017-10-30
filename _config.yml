@@ -17,5 +17,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: josimar_camargo
 github_username:  josimarcamargo
 
+theme: jekyll-theme-architect
+
 # Build settings
 markdown: kramdown
