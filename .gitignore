@@ -1,5 +1,5 @@
 # sublime files
-MyBlog.sublime-*
+*.sublime-*
 
 # jekill files
 _site
