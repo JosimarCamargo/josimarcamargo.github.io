@@ -21,3 +21,6 @@ theme: jekyll-theme-architect
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
