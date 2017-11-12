@@ -17,6 +17,8 @@ url: "https://josimarcamargo.com" # the base hostname & protocol for your site
 twitter_username: josimar_camargo
 github_username:  josimarcamargo
 
+permalink: /blog/:categories/:year/:month/:day/:title/
+
 theme: jekyll-theme-architect
 
 # Build settings
