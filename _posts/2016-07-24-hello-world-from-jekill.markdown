@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Hello world from Jekyll!"
 date:   2016-07-24 10:49:31 -0300
 <!-- categories: project update -->  <!-- exemplo de categorias nos posts -->
