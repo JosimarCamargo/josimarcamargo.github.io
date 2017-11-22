@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* General*/
+
+ul{
+	list-style: none;
+}
+
+
+/*Site footer*/
+.site-footer{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.footer-divider{
+	border-top: #ddd 1px solid;
+	width: 93%;
+	margin: 20px auto;
+}
+.site-footer .icon svg {
+	display: inline-block;
+	vertical-align: middle;
+	width: 16px;
+	height: 16px;
+}
+.footer-col-wrapper{ /*Awesome how flexbox is easy and responsive*/
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
