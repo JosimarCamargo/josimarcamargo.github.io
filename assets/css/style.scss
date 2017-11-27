@@ -5,29 +5,48 @@
 
 /* General*/
 
+$azul_header: #2e7bcf; /*azul do tema em scss*/
+
 ul{
 	list-style: none;
 }
 
-
 /*Site footer*/
-.site-footer{
-	max-width: 1000px;
-	margin: 0 auto;
+footer{
+	font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+	background: $azul_header url(../images/header-bg.jpg) 0 0 repeat-x; /*esta imagem esta no tema architect*/
+	color: #fff;
+
+	/*Awesome how flexbox is easy and responsive*/
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
 }
-.footer-divider{
-	border-top: #ddd 1px solid;
-	width: 93%;
-	margin: 20px auto;
+
+footer a{
+	color: #fff;
 }
-.site-footer .icon svg {
+footer a:hover{
+	color: #fff;
+}
+
+footer ul {/*reset to theme architect*/
+	padding: 0;
+	margin: 0;
+}
+
+footer .footer-col{
+	margin: 10px;
+}
+
+footer .icon svg {
 	display: inline-block;
 	vertical-align: middle;
 	width: 16px;
 	height: 16px;
 }
-.footer-col-wrapper{ /*Awesome how flexbox is easy and responsive*/
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
+
+/* change color of icons svg through css*/
+footer span svg path{
+	fill: #fff;
 }
