@@ -24,3 +24,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-sitemap
+  - jemoji # see emojis in development enviroment
