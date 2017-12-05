@@ -47,3 +47,19 @@ Meu nome é Josimar Camargo, tenho 32 anos e trabalho como desenvolvedor de soft
 ## Formação Acadêmica
 
 * **Sistemas de Informação [Faculdade São Luís](http://saoluis.br/) 01/2005 - 12/2009**
+
+## Demais cursos
+
+* 2017 React Componentes reutilizáveis para sua webApp - Alura.
+* 2017 Docker - LinuxTips.
+* 2017 Integração Contínua com Jenkins - Alura.
+* 2016 Ionic desenvolvimento de aplicações híbridas mobile - Alura.
+* 2016 Angular/Ionic - Webschool.
+* 2016 AngularJS Crie webapps poderosas - Alura.
+* 2015 Ruby on Rails (35 horas) - Plataformatec/Alura.
+* 2014 Ruby on Rails(50 horas) - eGenial.
+* 2013 JavaScript (20 horas) - XTI.
+* 2013 GIT Controle e compartilhe seu código - Alura
+* 2013 GIT - AkitaOnRails.
+* 2012 PHP(30 horas) - Alura.
+
