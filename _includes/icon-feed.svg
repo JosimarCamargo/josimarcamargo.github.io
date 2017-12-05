@@ -1,0 +1,20 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16px"
+  height="16px"
+  viewBox="0 0 256 256">
+  <circle
+    cx="68"
+    cy="189"
+    r="24"
+    fill="#FFF"
+    id="circle" />
+  <path
+    d="M160 213h-34a82 82 0 0 0 -82 -82v-34a116 116 0 0 1 116 116z"
+    fill="#FFF"
+    id="inner_curve" />
+  <path
+    d="M184 213A140 140 0 0 0 44 73 V 38a175 175 0 0 1 175 175z"
+    fill="#FFF"
+    id="outer_curve" />
+</svg>

@@ -3,7 +3,9 @@
 	<div class="footer-col footer-col-1">
 		<ul class="contact-list">
 			<li>
-				{{ site.title }}
+				<a href="{{ '/' | absolute_url }}">
+					{{ site.title }}
+				</a>
 			</li>
 			<li>
 				<a href="mailto:{{ site.email }}">{{ site.email }}</a>
@@ -24,7 +26,12 @@
 
 	<div class="footer-col footer-col-3">
 		<ul>
-			<li>{{ site.description | escape }}</li>
+			<li>
+				<a href="{{ site.site.url }}/feed.xml">
+					{% include icon-feed.svg %}
+					<span class="name-icon">feed</span>
+				</a>
+			</li>
 		</ul>
 	</div>
 
