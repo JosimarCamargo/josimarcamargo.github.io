@@ -8,8 +8,8 @@
 # Site settings
 title: Josimar Camargo
 email: josimarcamargo@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Notas de um desenvolvedor.
+description: > # this means to ignore newlines until "baseurl:" # Notas de um desenvolvedor.
+  Olá, como vai você? Meu nome é Josimar Camargo, tenho 32 anos e trabalho com desenvolvimento web há 5 anos e este é o meu blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://josimarcamargo.com" # the base hostname & protocol for your site
 twitter_username: josimar_camargo
