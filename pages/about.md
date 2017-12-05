@@ -4,14 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-# Josimar Camargo
-
-**Blog:** [josimarcamargo.com](https://josimarcamargo.com)
-
-**[Linkedin](www.linkedin.com/in/josimar-camargo)**
-
-**E-mail:** josimar_camargo@hotmail.com
-
 ## Sobre mim
 
 Meu nome é Josimar Camargo, tenho 32 anos e trabalho como desenvolvedor de software, sou um apaixonado por tecnologia, um curioso que gosta muito de aprender, venho atuando principalmente como Full Stack.
