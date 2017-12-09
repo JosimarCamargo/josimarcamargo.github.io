@@ -21,10 +21,10 @@ Meu nome é Josimar Camargo, tenho 32 anos e trabalho como desenvolvedor de soft
 
 ## Experiência Profissional
 
-### Full Stack e Mobile Developer - SGAPetro Sistemas - 03/2015 - Data Atual
+### Full Stack e Mobile Developer - SGAPetro Sistemas - 12/2015 - Data Atual
 > Responsável pela criação e desenvolvimento da API REST da empresa, hospedagem da mesma em servidores própios, rodando sobre Ubuntu, criação e desenvolvimento dos aplicativos mobile, criação e desenvolvimento portal dos clientes da empresa. **Principais atividades:** Desenvolvimento e manutenção da API escrita em RAILS, bem como a codificação de seus testes automatizados escritos com Minitest e Capybara, hospedagem da API na nuvem da Digital Ocean e posterior migração para servidor própio. Criação, desenvolvimento e manutenção dos aplicativos mobile escritos em ionic. Criação, desenvolvimento e manutenção do portal dos clientes da empresa, com back-end escrito em RAILS e front-end utilizando semantic-ui.css, deploy feito com Capistrano, GIT para versionar, editor de texto utilizado Sublime Text 3. **Principais conquistas:** Implantação e GIT e devops em todos os times e projetos da empresa.
 
-### Full Stack Developer - Centeyo ecommerce - 02/2014 - 03/2015
+### Full Stack Developer - Centeyo ecommerce - 02/2014 - 12/2015
 > Responsável pelo desenvolvimento do e-commerce em Wordpress e o tema com funções PHP, integrar ferramenta de pagamento, design do layout, otimizar S.E.O. tudo sempre integrado com a equipe de marketing. **Principais atividades:** Desenvolvimento e manutenção do sistema de ecommerce utilizado pela empresa feito em Wordpress e Woocommerce, integração com gateway de pagamento, codificação do layout responsivo com Bootstrap, integração com API dos correios, hospedar a aplicação na nuvem da Digital Ocean, usando Apache, Nginx, php­-fpm, Gruntjs com Nodejs para deploy, GIT para versionar, editor utilizado Sublime Text 3.
 
 ### Web Developer - Serra Luz Agência Digital - 03/2013 - 01/2014
@@ -38,7 +38,7 @@ Meu nome é Josimar Camargo, tenho 32 anos e trabalho como desenvolvedor de soft
 
 ## Formação Acadêmica
 
-* **Sistemas de Informação [Faculdade São Luís](http://saoluis.br/) 01/2005 - 12/2009**
+* **Sistemas de Informação <a href="http://saoluis.br/" target="_blank">Faculdade São Luís</a> 01/2005 - 12/2009**
 
 ## Demais cursos
 
