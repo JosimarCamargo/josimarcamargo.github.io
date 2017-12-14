@@ -22,7 +22,17 @@ I am Josimar Camargo and I love to solve problems with technology, I am 32 years
 ## Employment
 
 ### Full Stack and Mobile Developer - SGAPetro Sistemas - 12/2015 - Today
-> Responsável pela criação e desenvolvimento da API REST da empresa, hospedagem da mesma em servidores própios, rodando sobre Ubuntu, criação e desenvolvimento dos aplicativos mobile, criação e desenvolvimento portal dos clientes da empresa. **Principais atividades:** Desenvolvimento e manutenção da API escrita em RAILS, bem como a codificação de seus testes automatizados escritos com Minitest e Capybara, hospedagem da API na nuvem da Digital Ocean e posterior migração para servidor própio. Criação, desenvolvimento e manutenção dos aplicativos mobile escritos em ionic. Criação, desenvolvimento e manutenção do portal dos clientes da empresa, com back-end escrito em RAILS e front-end utilizando semantic-ui.css, deploy feito com Capistrano, GIT para versionar, editor de texto utilizado Sublime Text 3. **Principais conquistas:** Implantação e GIT e devops em todos os times e projetos da empresa.
+> Responsável pela criação e desenvolvimento da API REST da empresa, hospedagem da mesma em servidores própios, rodando sobre Ubuntu, criação e desenvolvimento dos aplicativos mobile, criação e desenvolvimento portal dos clientes da empresa. **Principais atividades:** Desenvolvimento e manutenção da API escrita em RAILS, bem como a codificação de seus testes automatizados escritos com Minitest e Capybara, hospedagem da API na nuvem da Digital Ocean e posterior migração para servidor própio. Criação, desenvolvimento e manutenção dos aplicativos mobile escritos em ionic. Criação, desenvolvimento e manutenção do portal dos clientes da empresa, com back-end escrito em RAILS e front-end utilizando semantic-ui.css, deploy feito com Capistrano, GIT para versionar, editor de texto utilizado Sublime Text 3. **Principais conquistas:** Implantação de GIT e devops em todos os times e projetos da empresa.
+
+* Created RAILS API that allow communication between desktop software, mobile apps and company’s webapp, starting from the requirements gathering to the application design and development, always using Ruby on Rails as my primary stack.
+* Created company’s webapp using Ruby on Rails that allow to customers keep track of your expenses.
+* Added some test coverage to the codebase and promote a TDD approach at least for all the core features.
+* Configured all our hosting infrastructure based on Linux machines(Ubuntu, Digital Ocean).
+* Created company’s mobile app, that allow to company’s customer to see they sales, stocks and etc.
+* Provide training about DevOps and implantation of GIT on the company.
+* Technologies: Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Semantic-UI CSS, Ionic, Angular, Linux(Ubuntu), Digital Ocean, GIT, Capistrano, Trello, Minitest.
+
+
 
 ### Full Stack Developer - Centeyo ecommerce - 02/2014 - 12/2015
 > Responsável pelo desenvolvimento do e-commerce em Wordpress e o tema com funções PHP, integrar ferramenta de pagamento, design do layout, otimizar S.E.O. tudo sempre integrado com a equipe de marketing. **Principais atividades:** Desenvolvimento e manutenção do sistema de ecommerce utilizado pela empresa feito em Wordpress e Woocommerce, integração com gateway de pagamento, codificação do layout responsivo com Bootstrap, integração com API dos correios, hospedar a aplicação na nuvem da Digital Ocean, usando Apache, Nginx, php­-fpm, Gruntjs com Nodejs para deploy, GIT para versionar, editor utilizado Sublime Text 3.
