@@ -8,7 +8,7 @@
 $azul_header: #2e7bcf; /*azul do tema em scss*/
 
 ul{
-	list-style: none;
+	list-style: square;
 }
 img.emoji{
 	vertical-align: top;
@@ -57,6 +57,7 @@ footer a:hover{
 footer ul {/*reset to theme architect*/
 	padding: 0;
 	margin: 0;
+	list-style: none;
 }
 
 footer .footer-col{
